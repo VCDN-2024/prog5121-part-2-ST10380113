@@ -2,8 +2,8 @@ Reference list
 
 Gupta, L. (2022) Get First 4 chars of a string in Java, HowToDoInJava. Available at: https://howtodoinjava.com/java/string/get-first-4-characters/#:~:text=valueOf()%20method%20to%20convert,substring(0%2C%202). (Accessed: 30 May 2024). 
 
-How can I sum user input numbers whilst in a loop? (2023) Stack Overflow. Available at: https://stackoverflow.com/questions/74467095/how-can-i-sum-user-input-numbers-whilst-in-a-loop (Accessed: 30 May 2024). 
+How can I sum user input numbers whilst in a loop? (2023) Stack Overflow. Available at: https://stackoverflow.com/questions/74467095/how-can-i-sum-user-input-numbers-whilst-in-a-loop (Accessed: 15 May 2024). 
 
-Java application to provide a menu of different options? (2014) Stack Overflow. Available at: https://stackoverflow.com/questions/20484088/java-application-to-provide-a-menu-of-different-options (Accessed: 30 May 2024). 
+Java application to provide a menu of different options? (2014) Stack Overflow. Available at: https://stackoverflow.com/questions/20484088/java-application-to-provide-a-menu-of-different-options (Accessed: 10 May 2024). 
 
-Increment (++) and decrement (–) operators in Java explained (2023) codedamn news. Available at: https://codedamn.com/news/java/increment-decrement-operators-in-java-explained (Accessed: 30 May 2024). 
+Increment (++) and decrement (–) operators in Java explained (2023) codedamn news. Available at: https://codedamn.com/news/java/increment-decrement-operators-in-java-explained (Accessed: 20 May 2024). 
